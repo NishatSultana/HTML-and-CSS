@@ -1,0 +1,47 @@
+#top {
+	font-size: 12px;
+}
+#middle {
+	font-size: 12px;
+}
+#buttom {
+	font-size: 12px;
+}
+.fav {
+	font-weight: bold;
+}
+table {
+	width: 500px;
+	height: 200px;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	border: 1PX solid black;
+	padding: 5px;
+	text-align: center;
+}
+th {
+	blackgroud-color: lightgray;
+	text-align: ceter;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+p {
+	color: white;
+	background-color: black;
+	width: 500px;
+	height: 200px;
+	margin: 30px;
+	padding: 20px;
+
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+
+	border: 30px solid blue;
+	border: 5px dotted red;
+}
